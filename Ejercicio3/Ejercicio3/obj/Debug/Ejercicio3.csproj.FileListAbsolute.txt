@@ -1,0 +1,7 @@
+C:\Users\fabryy\Desktop\FinalProg2\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\fabryy\Desktop\FinalProg2\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\fabryy\Desktop\FinalProg2\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\fabryy\Desktop\FinalProg2\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csprojAssemblyReference.cache
+C:\Users\fabryy\Desktop\FinalProg2\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\fabryy\Desktop\FinalProg2\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\fabryy\Desktop\FinalProg2\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb

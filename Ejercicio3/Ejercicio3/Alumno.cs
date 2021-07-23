@@ -8,30 +8,41 @@ namespace Ejercicio3
 {
     public class Alumno:IABM,IBusqueda
     {
+        private readonly Materia materia;
         public string nombre { get; set; }
 
         public string apellido { get; set; }
 
         public string dni { get; set; }
 
+        public Alumno()
+        {
+            Carrera carrera = new Carrera();
+        }
+
+        public Alumno(Materia mat)
+        {
+            materia = mat;
+        }
+
         public string Alta()
         {
-            throw new NotImplementedException();
+            return "Dando de alta alumno";
         }
 
         public string Baja()
         {
-            throw new NotImplementedException();
+            return "Dando de baja alumno";
         }
 
         public string BuscarXdni()
         {
-            throw new NotImplementedException();
+            return "Buscando alumno x dni";
         }
 
         public string Modificar()
         {
-            throw new NotImplementedException();
+            return "Modificando alumno";
         }
     }
 }
