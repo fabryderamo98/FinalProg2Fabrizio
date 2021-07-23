@@ -24,5 +24,10 @@ namespace Ejercicio3
         {
             return "Modificando Materia";
         }
+
+        public string buscarAlumno()
+        {
+            return "Buscando Alumno en materia";
+        }
     }
 }

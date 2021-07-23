@@ -28,6 +28,8 @@ namespace Ejercicio3
             Console.WriteLine(operacionesABM1.Baja());
             Console.WriteLine(operacionesABM2.Modificar());
             Console.WriteLine(operacionesABM3.Alta());
+            Console.WriteLine(carrera.BuscarAlumno());
+            Console.WriteLine(materia.buscarAlumno());
             Console.ReadLine();
 
         }
